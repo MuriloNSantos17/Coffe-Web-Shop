@@ -479,7 +479,7 @@ header.shadow{
     }
 
     .about-img{
-        order 2;
+        order:2;
     }
 
     .about-text{
